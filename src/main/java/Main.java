@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ColorIncorrectoException {
 
         Bosque bosque = new Bosque();
 
